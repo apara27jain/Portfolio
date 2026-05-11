@@ -1,0 +1,6 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,3 Idiots,Rajkumar Hirani,Aamir Khan,India,January 1 2020,2009,PG-13,170 min,Drama, Comedy
+s2,TV Show,Stranger Things,,Millie Bobby Brown,United States,July 15 2021,2016,TV-14,3 Seasons,Drama, Sci-Fi
+s3,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,April 24 2020,2020,R,116 min,Action, Thriller
+s4,Movie,Dangal,Nitesh Tiwari,Aamir Khan,India,March 10 2019,2016,PG,161 min,Drama, Sports
+s5,TV Show,Money Heist,,Alvaro Morte,Spain,September 1 2020,2017,TV-MA,5 Seasons,Crime, Thriller
